@@ -24,8 +24,8 @@ for analysing computational chemistry data.
 ## Workflow
 
 Computational data
---extraction
---processing
---analysis
---visualization
---scientific interpretation
+-extraction
+-processing
+-analysis
+-visualization
+-scientific interpretation
