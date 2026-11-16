@@ -12,6 +12,7 @@ export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
 
 source /path/to/this/installation_all/example/module.sh
 source /path/to/installation_all/bigdft_env.sh
+source /path/to/bigdft-suite/build/install/bin/bigdftvars.sh
 
 export BIGDFT_MPIRUN="srun"
 python mos2_no_defects.py
